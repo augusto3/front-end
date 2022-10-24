@@ -1,0 +1,120 @@
+*{
+  padding:0px;
+  margin:0px;
+  border:0px;
+}
+body{
+  color: black;
+  background-color: lightgreen;
+}
+.centrar{
+  align-items: center;
+  display:inline-flex;
+}
+header{
+  text-align:center;
+  font-size:30px;
+  color:#000000;
+  background-color:#0008f5;
+}
+.html5 {
+  width: 70px;
+  height: 70px;
+  margin: 20px;
+}
+.mi-foto{
+  width: 140px;
+  height: 140px;
+  margin: 20px;
+
+}
+hr{
+  background-color: black;
+  padding: 1px;
+}
+.barra{
+  background-color:#0008f5;
+  color: #000000;
+  display: block;
+  text-align: center;
+  padding:10px
+}
+.barra li{
+  display: inline-flex;
+  box-sizing: content-box;
+  padding: 10px;
+}
+.barra li:hover{
+  background-color: #0077FF;
+  color: #000000;
+  padding: 10px;
+}
+a {
+  color: #000000;
+  text-decoration: none;
+}
+a:hover {
+  color: #000000;
+  text-decoration: none;
+}
+p{
+  font-family:Arial,Helvetica;
+  display: inline-flex;
+  text-align: justify;
+}
+main{
+  margin: 50px;
+  margin-top: 25px;
+  display:inline-flex;
+}
+.block{
+  display: block;
+}
+h3{
+  display: inline;
+}
+.vertical{
+  border: 1px thick solid;
+  padding: 1px;
+  margin: 20px;
+  margin-right: 0px;
+  border-top: 0px;
+  margin-top: 0px;
+}
+.columna1{
+  display: block;
+}
+aside{
+  width: 130px;
+}
+.columna2{
+  display: block;
+  margin:20px;
+  margin-right: 0px;
+}
+h2{
+  margin: 20px;
+  text-align: center;
+  font-family: serif;
+  font-style: "Times New Roman", times;
+  font-size:30px
+}
+footer{
+  background-color:#0008f5;
+  color: #000000;
+  text-align: center;
+  padding: 20px
+}
+.iconos-redes-sociales{
+  display: block;
+  padding:10px
+}
+svg{
+  height: 40px;
+  width: 40px;
+}
+.iconos-redes-sociales li{
+  display: inline-flex;
+  text-align: center;
+  padding: 10px;
+}
